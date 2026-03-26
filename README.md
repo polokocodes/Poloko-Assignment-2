@@ -24,9 +24,9 @@ The dataset contains a significant data quality issue — it blends U.S. and Ger
 
 Requirements:
 
-pandas
-numpy
-matplotlib
+pandas, 
+numpy,
+matplotlib, 
 seaborn
 
 Usage:
