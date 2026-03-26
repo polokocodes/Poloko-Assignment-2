@@ -22,10 +22,12 @@ San Francisco and Seattle offer the highest location-based salaries; Remote role
 Experience level is a strong salary predictor, with each tier adding ~$15,000–$20,000
 The dataset contains a significant data quality issue — it blends U.S. and German job listings with incompatible formatting, requiring extensive cleaning before analysis
 
-Requirements
+Requirements:
+
 pandas
 numpy
 matplotlib
 seaborn
-Usage
+
+Usage:
 Open and run Project_2.ipynb in Jupyter Notebook or Google Colab.
